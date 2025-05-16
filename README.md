@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @donasree
 - 🏫 BTech Computer science in Cybersecurity Student at JNTU Hyderabad
-- 👀 I’m interested in webdevelopment and cybersecurity
-- 🌱 I’m currently learning webdevelopment and DSA
-- 💞️ I’m looking to collaborate on opensource projects based on webdevelopment and internships on web development
+- 👀 I’m interested in Mern stack development
+- 🌱 I’m currently learning Fullstack development and DSA
+- 💞️ I’m looking to collaborate on opensource projects based on frontend and fullstack developement
 - 📫 How to reach me donasreec@gmail.com
 - 😄 Pronouns: She/her
 
